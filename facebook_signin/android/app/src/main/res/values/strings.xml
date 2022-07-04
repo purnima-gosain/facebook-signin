@@ -1,5 +1,6 @@
 <resources>
-<string name="facebook_app_id">1234</string>
-<string name="fb_login_protocol_scheme">fb1234</string>
-<string name="facebook_client_token">56789</string>
+<string name="app_name">Facebbok Login Practise </string>
+<string name="facebook_app_id">350461470581187</string>
+<string name="fb_login_protocol_scheme">fb350461470581187</string>
+<string name="facebook_client_token">bcc71b514aca567a348d5902e3c4b76a</string>
 </resources>

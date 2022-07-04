@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "479026061977",
+    "project_id": "facebook-signin-93700",
+    "storage_bucket": "facebook-signin-93700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479026061977:android:8a2a857db7909696814e08",
+        "android_client_info": {
+          "package_name": "com.example.facebook_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479026061977-psfmujdbeggtff2uti4qc10eojue05go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebook_signin",
+            "certificate_hash": "16612d8e1095a51e0167567f4ea4817439561543"
+          }
+        },
+        {
+          "client_id": "479026061977-g0g16250uib70gsjd2cbjp3v68ppr7l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABx9dP-pe4obqK5tk8dlIV1JVx9CSDvmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479026061977-g0g16250uib70gsjd2cbjp3v68ppr7l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
