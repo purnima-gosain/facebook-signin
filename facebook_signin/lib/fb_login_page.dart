@@ -37,7 +37,10 @@ loginControls(BuildContext context) {
         onTap: () {
           Provider.of<FacebookSignInController>(context, listen: false).login();
         },
-        child: Image.asset("assets/images/fb.png")),
+        child: Image.asset(
+          "assets/images/fb.png",
+          width: 250,
+        )),
   );
 }
 
